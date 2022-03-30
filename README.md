@@ -2,6 +2,7 @@
 - 😁Tenho 20 anos e sou apaixonado por tecnologia e programação. E adoro aprender coisas novas!
 - 📚 Estou estudando para ser um desenvolvedor front-end e UX, UI
 - 📩contate-me no e-mail: Guilherme.torres1609@gmail.com
+- 
 
 <div align="center">
   <a href="https://github.com/Flxcko77">
